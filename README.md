@@ -1,9 +1,9 @@
+<p align="center">
+  <a href="">
+    <img alt=Support height="170" src="https://telegra.ph/file/ecadcb172a2477f8c87bf.jpg"> 
+    
 ---
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=B700FB&center=true&width=1000&height=200&lines=PANHWAR-MD-V4.0" alt="Typing SVG" /></a>
-  </p>  
-  
----  
-
+    
 > **`Updated To` The Version 4.0**
 ---
 
@@ -20,3 +20,30 @@ PANHWAR-MD BY ANSAR-PANHWAR 👑
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=✰PANHWAR-MD-WHATSAPP-BOT✰" alt="Typing SVG" /></a>
 
 ---
+### 1. Fork This Repository
+
+**Start by forking this repository to your own GitHub account. Click the button below to fork:**
+
+  <a href="https://github.com/ANSAR-PANHWAR/PANHWAR-MD/fork"><img title="PANHWAR-MD" src="https://img.shields.io/badge/FORK-PANHWAR MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  
+### 2. Get Session ID 
+
+**You will need a session ID to run the PANHWAR-MD. Click the button below to obtain your session ID.if any error in loading site try vpn:**
+
+> **Get Pair Code (Session ID)**
+
+<a href='https://panhwar-pair-01-339448bcae01.herokuapp.com/' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br> 
+
+<h2 align="center">Deployment Section</h2>
+
+---
+
+<h4 align="center">1. Heroku</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+
+<p align="center">
+<a href='https://dashboard.heroku.com/new-app?template=https://github.com/ANSAR-PANHWAR/PANHWAR-MD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
