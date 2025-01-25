@@ -1,10 +1,10 @@
-<p align="center">
-  <a href="">
-    <img alt=Support height="170" src="https://telegra.ph/file/ecadcb172a2477f8c87bf.jpg"> 
-    
+---
+
+<a><img src='https://qu.ax/usgBJ.jpg'/></a>
+
 ---
     
-> **`Updated To` The Version 4.0**
+> **`Updated To` The Version 2.0**
 ---
 
 ```
@@ -12,7 +12,7 @@ PANHWAR-MD BY ANSAR-PANHWAR 👑
 ```
 ---
 
-<a><img src='https://i.ibb.co/WHBf8bP/temp-image.jpg'/></a>
+<a><img src='https://qu.ax/usgBJ.jpg'/></a>
 
 ---
 
@@ -47,3 +47,23 @@ PANHWAR-MD BY ANSAR-PANHWAR 👑
 
 <p align="center">
 <a href='https://dashboard.heroku.com/new-app?template=https://github.com/ANSAR-PANHWAR/PANHWAR-MD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+
+
+---
+
+<a><img src='https://qu.ax/usgBJ.jpg'/></a>
+
+
+---
+
+
+
+
+---
+
+
+<a><img src='https://qu.ax/usgBJ.jpg'/></a>
+
+
+
+---
